@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Application
+Name[bg]=Демон за уведомленията на Xfce
+Name[de]=Xfce Benachrichtigungsdienst
+Name[el]=Υπηρεσία ειδοποίσεων του Xfce
+Name[es]=Servicio de notificaciones de Xfce
+Name[fr]=Démon de notification Xfce
+Name[ja]=Xfce 通知デーモン
+Name[ko]=Xfce 알림 데몬
+Name[lt]=Xfce pranešimų tarnyba
+Name[nb]=Xfce-varslingsnisse
+Name[nl]=Xfce-meldingsdienst
+Name[pl]=Demon powiadomień Xfce
+Name[pt]=Daemon de notificação Xfce
+Name[sq]=Demon Njoftimesh Xfce
+Name[sr]=Домар обавештења ИксФЦЕ-а
+Name[zh_TW]=Xfce 通知常駐程式
+Name=Xfce Notification Daemon
+Exec=/usr/local/lib/xfce4/notifyd/xfce4-notifyd
+Icon=org.xfce.notification
+OnlyShowIn=XFCE;

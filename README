@@ -1,0 +1,17 @@
+### Create Virtual Box
+# 8GB Ram
+# 2 CPUs
+# 128 MB VRam
+# Graphics Controller: VBoxSVGA (Ignore Invalid settings detected)
+# Network Adapter: Bridged Adapter
+
+# to make the display work, make sure that virtualbox display driver is VBoxXVGA
+# no really, make sure you're on VBoxXVGA
+
+### Installer Options
+# Default system components
+# Auto ZFS
+# Use ntpdate and ntpd
+# Random PID and down is what I usually use
+# no users
+# disconnect dvd while restarting

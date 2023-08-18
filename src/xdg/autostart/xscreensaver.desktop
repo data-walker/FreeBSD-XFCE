@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Type=Application
+Name=Screensaver
+Name[am]=መመልከቻ ማዳኛ
+Name[ar]=شاشة توقف
+Name[eo]=Ekrankurteno
+Comment=Launch screensaver and locker program
+Comment[ar]=تشغيل شاشة التوقف وبرنامج قفل الشاشة
+Icon=preferences-desktop-screensaver
+Exec=xscreensaver -no-splash
+TryExec=xscreensaver
+OnlyShowIn=XFCE;
+Hidden=true
